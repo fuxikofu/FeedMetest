@@ -1,0 +1,199 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6\" referrerpolicy=\"no-referrer\"><br>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.<br><br>Language: JavaScript<br>Stars: 153005<br>Forks: 8206",
+      "contentSnippet": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\nLanguage: JavaScript\nStars: 153005\nForks: 8206",
+      "creator": "DietrichGebert",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff68001c4ffc9594e4bdd0b5702958c54ce0acfc0b03e0933852b81e94426e41/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 75038<br>Forks: 4506",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 75038\nForks: 4506",
+      "creator": "pbakaus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5bdc4706d8b6ef2c0252d44e39bd82a2d237556f8269e87775698c0af3a340de/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 272048<br>Forks: 40627",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 272048\nForks: 40627",
+      "creator": "affaan-m",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/21cc1b5299436340560530a6786b4d1d9a8c42b77d8e25712ea49200b02a335a/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16758<br>Forks: 811",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16758\nForks: 811",
+      "creator": "Effect-TS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fb03947e9b17f7de38c0db09a0877d2a3920857652c3e5a047c6b3bea5cc6b44/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.<br><br>Language: Go<br>Stars: 109442<br>Forks: 6328",
+      "contentSnippet": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\nLanguage: Go\nStars: 109442\nForks: 6328",
+      "creator": "JuliusBrussee",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e3f9998e00fcb74f2d8b6208ec73c230538d603dfebf8ef1a99fb0552d2ca99f/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 89616<br>Forks: 7880",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 89616\nForks: 7880",
+      "creator": "Panniantong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6b8c0acb6c38fbe6acc5e7cbd766eef6864fb9b1c3511711245244ac90a7ccab/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 24554<br>Forks: 6404",
+      "contentSnippet": "Language: TypeScript\nStars: 24554\nForks: 6404",
+      "creator": "pingdotgg",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 95447<br>Forks: 8451",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 95447\nForks: 8451",
+      "creator": "thedotmack",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cloudflare/cloudflare-os",
+      "link": "https://github.com/cloudflare/cloudflare-os",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c7107ff4fea26c40b274d73f2f43614f1bc9b7ac1dd0ee61b48f63e11f093cb2/cloudflare/cloudflare-os\" referrerpolicy=\"no-referrer\"><br>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.<br><br>Language: TypeScript<br>Stars: 10500<br>Forks: 1282",
+      "contentSnippet": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.\nLanguage: TypeScript\nStars: 10500\nForks: 1282",
+      "creator": "cloudflare",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e25f3d0fa08a7237865c2e784d94fc4317392a5197d6c37731bb69fa9b77c2c1/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 100775<br>Forks: 10589",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 100775\nForks: 10589",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3cec33b7663b9eed129b5a8de51fb07b13ff173dbfe921911f58dc6636d52383/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 294822<br>Forks: 26350",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 294822\nForks: 26350",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b8472906dcabf4ee9d5284d15b348ab8a070513f4e9a6ac0b260a41424e8a58e/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 275236<br>Forks: 23099",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 275236\nForks: 23099",
+      "creator": "mattpocock",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bfdf7f5936c7e5bd7015d597eb73119e9a9618aac7f8a86c6b44affa2c801a1a/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 25208<br>Forks: 1805",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 25208\nForks: 1805",
+      "creator": "mksglu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "earendil-works/pi",
+      "link": "https://github.com/earendil-works/pi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e23753be96378fd750ff023231a97ae31874c93faf8e6a896e8a9e6ae5ea903/earendil-works/pi\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI<br><br>Language: TypeScript<br>Stars: 112074<br>Forks: 14220",
+      "contentSnippet": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI\nLanguage: TypeScript\nStars: 112074\nForks: 14220",
+      "creator": "earendil-works",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "getsentry/sentry",
+      "link": "https://github.com/getsentry/sentry",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b023d9398bcd038b8117d4fec0e6054a04b573b17c2eb545459588b709e3dfea/getsentry/sentry\" referrerpolicy=\"no-referrer\"><br>Developer-first error tracking and performance monitoring<br><br>Language: Python<br>Stars: 45170<br>Forks: 4896",
+      "contentSnippet": "Developer-first error tracking and performance monitoring\nLanguage: Python\nStars: 45170\nForks: 4896",
+      "creator": "getsentry",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3cec33b7663b9eed129b5a8de51fb07b13ff173dbfe921911f58dc6636d52383/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 149141<br>Forks: 25311",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 149141\nForks: 25311",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "jamwithai/production-agentic-rag-course",
+      "link": "https://github.com/jamwithai/production-agentic-rag-course",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1a041da69837650110fd6bb3ca22a7313d2c6a3655316d41a17dcf268cd962c6/jamwithai/production-agentic-rag-course\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 9359<br>Forks: 2065",
+      "contentSnippet": "Language: Python\nStars: 9359\nForks: 2065",
+      "creator": "jamwithai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "meituan-longcat/LongCat-Video",
+      "link": "https://github.com/meituan-longcat/LongCat-Video",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7ef170df2b9b36aa85b9c1132df3072940259372d7e755eb644a1a632e25f412/meituan-longcat/LongCat-Video\" referrerpolicy=\"no-referrer\"><br><br><br>Language: Python<br>Stars: 8689<br>Forks: 1521",
+      "contentSnippet": "Language: Python\nStars: 8689\nForks: 1521",
+      "creator": "meituan-longcat",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f2602d15827f806524dcb4af62c59c0a2c4d4ccebb5a11a85823271cad7eb2e4/OpenCut-app/OpenCut\" referrerpolicy=\"no-referrer\"><br>The open-source CapCut alternative<br><br>Language: TypeScript<br>Stars: 91507<br>Forks: 9051",
+      "contentSnippet": "The open-source CapCut alternative\nLanguage: TypeScript\nStars: 91507\nForks: 9051",
+      "creator": "OpenCut-app",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T18:26:36.504Z"
+}

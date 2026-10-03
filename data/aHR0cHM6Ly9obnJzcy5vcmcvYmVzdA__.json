@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "pubDate": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "isoDate": "2026-10-03T10:43:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 372</p>\n<p># Comments: 150</p>\n",
+      "contentSnippet": "Article URL: https://tej.as/blog/aleph-alpha-kolibri\nComments URL: https://news.ycombinator.com/item?id=49943034\nPoints: 372\n# Comments: 150",
+      "creator": "tejaskumar__",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
+      "isoDate": "2026-10-03T09:36:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p>\n<p>Points: 234</p>\n<p># Comments: 39</p>\n",
+      "contentSnippet": "Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\nComments URL: https://news.ycombinator.com/item?id=49942706\nPoints: 234\n# Comments: 39",
+      "creator": "bastitx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "pubDate": "Sat, 03 Oct 2026 03:19:10 +0000",
+      "isoDate": "2026-10-03T03:19:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 429</p>\n<p># Comments: 103</p>\n",
+      "contentSnippet": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 429\n# Comments: 103",
+      "creator": "34679",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "pubDate": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "isoDate": "2026-10-03T00:55:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 385</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 385\n# Comments: 108",
+      "creator": "azhenley",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "pubDate": "Fri, 02 Oct 2026 20:56:36 +0000",
+      "isoDate": "2026-10-02T20:56:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p>\n<p>Points: 258</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 258\n# Comments: 190",
+      "creator": "ErenayDev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "isoDate": "2026-10-02T19:37:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 265</p>\n<p># Comments: 182</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 265\n# Comments: 182",
+      "creator": "notfirstpost",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "isoDate": "2026-10-02T19:06:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 521</p>\n<p># Comments: 312</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 521\n# Comments: 312",
+      "creator": "soheilpro",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "isoDate": "2026-10-02T18:01:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 307</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 307\n# Comments: 89",
+      "creator": "fibo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
+      "isoDate": "2026-10-02T14:22:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yuka.dev/blog-2026-10-02-linux-m4.html\">https://yuka.dev/blog-2026-10-02-linux-m4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933869\">https://news.ycombinator.com/item?id=49933869</a></p>\n<p>Points: 252</p>\n<p># Comments: 183</p>\n",
+      "contentSnippet": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 252\n# Comments: 183",
+      "creator": "signa11",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+      "isoDate": "2026-10-02T14:11:24.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p>\n<p>Points: 260</p>\n<p># Comments: 127</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-11036-y\nhttps://arxiv.org/abs/2511.07312\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 260\n# Comments: 127",
+      "creator": "PaulHoule",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "isoDate": "2026-10-02T13:18:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p>\n<p>Points: 300</p>\n<p># Comments: 173</p>\n",
+      "contentSnippet": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 300\n# Comments: 173",
+      "creator": "suopspaces",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "pubDate": "Fri, 02 Oct 2026 11:07:17 +0000",
+      "isoDate": "2026-10-02T11:07:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\">https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932147\">https://news.ycombinator.com/item?id=49932147</a></p>\n<p>Points: 359</p>\n<p># Comments: 63</p>\n",
+      "contentSnippet": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 359\n# Comments: 63",
+      "creator": "mariuz",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "pubDate": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "isoDate": "2026-10-02T05:12:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 298</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 298\n# Comments: 80",
+      "creator": "pietroppeter",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "isoDate": "2026-10-02T03:11:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 397</p>\n<p># Comments: 212</p>\n",
+      "contentSnippet": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 397\n# Comments: 212",
+      "creator": "Kuyawa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "pubDate": "Fri, 02 Oct 2026 02:51:27 +0000",
+      "isoDate": "2026-10-02T02:51:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NnV_cWeoo5Q\">https://www.youtube.com/watch?v=NnV_cWeoo5Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929391\">https://news.ycombinator.com/item?id=49929391</a></p>\n<p>Points: 296</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 296\n# Comments: 109",
+      "creator": "usernomdeguerre",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "isoDate": "2026-10-02T01:56:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p>\n<p>Points: 247</p>\n<p># Comments: 348</p>\n",
+      "contentSnippet": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 247\n# Comments: 348",
+      "creator": "danielfoster",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "pubDate": "Fri, 02 Oct 2026 00:27:56 +0000",
+      "isoDate": "2026-10-02T00:27:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://stillwet.art/\">https://stillwet.art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928566\">https://news.ycombinator.com/item?id=49928566</a></p>\n<p>Points: 351</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://stillwet.art/\nComments URL: https://news.ycombinator.com/item?id=49928566\nPoints: 351\n# Comments: 104",
+      "creator": "alstonite",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "isoDate": "2026-10-01T23:10:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 565</p>\n<p># Comments: 406</p>\n",
+      "contentSnippet": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 565\n# Comments: 406",
+      "creator": "luispa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "pubDate": "Thu, 01 Oct 2026 22:23:38 +0000",
+      "isoDate": "2026-10-01T22:23:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p>\n<p>Points: 560</p>\n<p># Comments: 128</p>\n",
+      "contentSnippet": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 560\n# Comments: 128",
+      "creator": "supermdguy",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "pubDate": "Thu, 01 Oct 2026 22:23:07 +0000",
+      "isoDate": "2026-10-01T22:23:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\">https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927754\">https://news.ycombinator.com/item?id=49927754</a></p>\n<p>Points: 738</p>\n<p># Comments: 360</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility\nComments URL: https://news.ycombinator.com/item?id=49927754\nPoints: 738\n# Comments: 360",
+      "creator": "hn_acker",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "link": "https://chatgpt.com/features/sites/",
+      "pubDate": "Thu, 01 Oct 2026 22:22:21 +0000",
+      "isoDate": "2026-10-01T22:22:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://chatgpt.com/features/sites/\">https://chatgpt.com/features/sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927747\">https://news.ycombinator.com/item?id=49927747</a></p>\n<p>Points: 331</p>\n<p># Comments: 314</p>\n",
+      "contentSnippet": "Article URL: https://chatgpt.com/features/sites/\nComments URL: https://news.ycombinator.com/item?id=49927747\nPoints: 331\n# Comments: 314",
+      "creator": "polvi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The death of web development education",
+      "link": "https://molily.de/web-dev-education/",
+      "pubDate": "Thu, 01 Oct 2026 21:07:37 +0000",
+      "isoDate": "2026-10-01T21:07:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://molily.de/web-dev-education/\">https://molily.de/web-dev-education/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927100\">https://news.ycombinator.com/item?id=49927100</a></p>\n<p>Points: 234</p>\n<p># Comments: 190</p>\n",
+      "contentSnippet": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 234\n# Comments: 190",
+      "creator": "ibobev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "pubDate": "Thu, 01 Oct 2026 20:23:27 +0000",
+      "isoDate": "2026-10-01T20:23:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/index.html\">https://automatictransmission.khoury.northeastern.edu/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926628\">https://news.ycombinator.com/item?id=49926628</a></p>\n<p>Points: 251</p>\n<p># Comments: 217</p>\n",
+      "contentSnippet": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 251\n# Comments: 217",
+      "creator": "rafaelc",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "pubDate": "Thu, 01 Oct 2026 20:14:23 +0000",
+      "isoDate": "2026-10-01T20:14:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://svelte.dev/blog/sveltekit-3-is-here\">https://svelte.dev/blog/sveltekit-3-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926536\">https://news.ycombinator.com/item?id=49926536</a></p>\n<p>Points: 398</p>\n<p># Comments: 176</p>\n",
+      "contentSnippet": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 398\n# Comments: 176",
+      "creator": "sampsn",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "pubDate": "Thu, 01 Oct 2026 20:02:57 +0000",
+      "isoDate": "2026-10-01T20:02:57.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-10955-0\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-10955-0</a><p><a href=\"https://www.cell.com/cell/abstract/S0092-8674(25)00853-0\" rel=\"nofollow\">https://www.cell.com/cell/abstract/S0092-8674(25)00853-0</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926411\">https://news.ycombinator.com/item?id=49926411</a></p>\n<p>Points: 329</p>\n<p># Comments: 152</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-10955-0\nhttps://www.cell.com/cell/abstract/S0092-8674(25)00853-0\nComments URL: https://news.ycombinator.com/item?id=49926411\nPoints: 329\n# Comments: 152",
+      "creator": "bookofjoe",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "pubDate": "Thu, 01 Oct 2026 19:33:05 +0000",
+      "isoDate": "2026-10-01T19:33:05.000Z",
+      "content": "\n<p>Related: <i>Pi Durable</i> - https://news.ycombinator.com/item?id=49925969</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a></p>\n<p>Points: 1670</p>\n<p># Comments: 584</p>\n",
+      "contentSnippet": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 1670\n# Comments: 584",
+      "creator": "sergiotapia",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "FLUX 3 Image",
+      "link": "https://bfl.ai/models/flux-3-image",
+      "pubDate": "Thu, 01 Oct 2026 19:24:29 +0000",
+      "isoDate": "2026-10-01T19:24:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bfl.ai/models/flux-3-image\">https://bfl.ai/models/flux-3-image</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925974\">https://news.ycombinator.com/item?id=49925974</a></p>\n<p>Points: 406</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://bfl.ai/models/flux-3-image\nComments URL: https://news.ycombinator.com/item?id=49925974\nPoints: 406\n# Comments: 89",
+      "creator": "minimaxir",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "pubDate": "Thu, 01 Oct 2026 19:24:08 +0000",
+      "isoDate": "2026-10-01T19:24:08.000Z",
+      "content": "\n<p>Related: <i>Pi 1.0</i> - <a href=\"https://news.ycombinator.com/item?id=49926069\">https://news.ycombinator.com/item?id=49926069</a> - Oct 2026 (184 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925969\">https://news.ycombinator.com/item?id=49925969</a></p>\n<p>Points: 498</p>\n<p># Comments: 70</p>\n",
+      "contentSnippet": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 498\n# Comments: 70",
+      "creator": "paulsmith",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "pubDate": "Thu, 01 Oct 2026 18:20:18 +0000",
+      "isoDate": "2026-10-01T18:20:18.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/Kv6yS\" rel=\"nofollow\">https://archive.ph/Kv6yS</a><p><a href=\"https://www.youtube.com/watch?v=_h_pQ1-5iQg\" rel=\"nofollow\">https://www.youtube.com/watch?v=_h_pQ1-5iQg</a><p><a href=\"https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-minecraft-city\" rel=\"nofollow\">https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925184\">https://news.ycombinator.com/item?id=49925184</a></p>\n<p>Points: 604</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "https://archive.ph/Kv6yS\nhttps://www.youtube.com/watch?v=_h_pQ1-5iQg\nhttps://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...\nComments URL: https://news.ycombinator.com/item?id=49925184\nPoints: 604\n# Comments: 137",
+      "creator": "CoryOndrejka",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "pubDate": "Thu, 01 Oct 2026 16:57:03 +0000",
+      "isoDate": "2026-10-01T16:57:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.gitbutler.com/git-3-sha-256\">https://blog.gitbutler.com/git-3-sha-256</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924179\">https://news.ycombinator.com/item?id=49924179</a></p>\n<p>Points: 554</p>\n<p># Comments: 531</p>\n",
+      "contentSnippet": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 554\n# Comments: 531",
+      "creator": "chmaynard",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T18:26:21.555Z"
+}

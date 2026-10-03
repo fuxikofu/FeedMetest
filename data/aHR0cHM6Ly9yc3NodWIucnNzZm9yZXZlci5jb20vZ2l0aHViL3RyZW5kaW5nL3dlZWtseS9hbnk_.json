@@ -1,0 +1,189 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aae9adc7973e2f538d9aec3c89c0753e743e10ddc38370efcb135ef66d75db7d/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 96655<br>Forks: 16375",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 96655\nForks: 16375",
+      "creator": "paperclipai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff15130b07d5808d6005c710d9e96b0506303643cae14883854d1c80e9681fae/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 45001<br>Forks: 5890",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 45001\nForks: 5890",
+      "creator": "vectorize-io",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 52443<br>Forks: 5847",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 52443\nForks: 5847",
+      "creator": "debpalash",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff68001c4ffc9594e4bdd0b5702958c54ce0acfc0b03e0933852b81e94426e41/pbakaus/impeccable\" referrerpolicy=\"no-referrer\"><br>The design language that makes your AI harness better at design.<br><br>Language: JavaScript<br>Stars: 75038<br>Forks: 4506",
+      "contentSnippet": "The design language that makes your AI harness better at design.\nLanguage: JavaScript\nStars: 75038\nForks: 4506",
+      "creator": "pbakaus",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c\" referrerpolicy=\"no-referrer\"><br>Learn it. Build it. Ship it for others.<br><br>Language: Python<br>Stars: 63015<br>Forks: 10777",
+      "contentSnippet": "Learn it. Build it. Ship it for others.\nLanguage: Python\nStars: 63015\nForks: 10777",
+      "creator": "rohitg00",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/33b6b04983cf5c2a7f0e66cda0079794fac1dac7ab7ab0040f497da568f8a4cb/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 56236<br>Forks: 5058",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 56236\nForks: 5058",
+      "creator": "heygen-com",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vercel/next.js",
+      "link": "https://github.com/vercel/next.js",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67\" referrerpolicy=\"no-referrer\"><br>The React Framework<br><br>Language: JavaScript<br>Stars: 143063<br>Forks: 33733",
+      "contentSnippet": "The React Framework\nLanguage: JavaScript\nStars: 143063\nForks: 33733",
+      "creator": "vercel",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Effect-TS/effect",
+      "link": "https://github.com/Effect-TS/effect",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8aefb0111e3d060b41c5c0fed598cc8c924733394f16b23f6753b4eb88dbcf7f/Effect-TS/effect\" referrerpolicy=\"no-referrer\"><br>Build production-ready applications in TypeScript<br><br>Language: TypeScript<br>Stars: 16759<br>Forks: 811",
+      "contentSnippet": "Build production-ready applications in TypeScript\nLanguage: TypeScript\nStars: 16759\nForks: 811",
+      "creator": "Effect-TS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "link": "https://github.com/alirezarezvani/claude-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fb3a221e91acf444d0562b98e631cb1df49597b74562751ac2180382cef848ca/alirezarezvani/claude-skills\" referrerpolicy=\"no-referrer\"><br>380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.<br><br>Language: Python<br>Stars: 27449<br>Forks: 3867",
+      "contentSnippet": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.\nLanguage: Python\nStars: 27449\nForks: 3867",
+      "creator": "alirezarezvani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179293<br>Forks: 32888",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179293\nForks: 32888",
+      "creator": "flutter",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e3f9998e00fcb74f2d8b6208ec73c230538d603dfebf8ef1a99fb0552d2ca99f/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 89616<br>Forks: 7880",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 89616\nForks: 7880",
+      "creator": "Panniantong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a1460ac689b1a04c507f37a2eb07b4ab654badb07e4b446a8a1e9d3719608469/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 6547<br>Forks: 810",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 6547\nForks: 810",
+      "creator": "TencentCloud",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tile-ai/tilelang",
+      "link": "https://github.com/tile-ai/tilelang",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9a7e0643a24c9950735cbd801e77ee1ee078a9b098fd10a5a4caf399f5ff2988/tile-ai/tilelang\" referrerpolicy=\"no-referrer\"><br> Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels<br><br>Language: Python<br>Stars: 8282<br>Forks: 834",
+      "contentSnippet": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels\nLanguage: Python\nStars: 8282\nForks: 834",
+      "creator": "tile-ai",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "longbridge/gpui-kit",
+      "link": "https://github.com/longbridge/gpui-kit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/814684486/d4c207a3-d306-4e87-86b2-3b9b83fc5d41\" referrerpolicy=\"no-referrer\"><br>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.<br><br>Language: Rust<br>Stars: 15804<br>Forks: 972",
+      "contentSnippet": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.\nLanguage: Rust\nStars: 15804\nForks: 972",
+      "creator": "longbridge",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1c69ebaf4bbf70613b3bf8d1b5f3c27200acde1515b8d87f3bbc6fc04c504702/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 103667<br>Forks: 31195",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 103667\nForks: 31195",
+      "creator": "pytorch",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/54ffad55a3616e3a98167de11c9e9791b8fe4103299b9bd1dd5d454e6e042469/harry0703/MoneyPrinterTurbo\" referrerpolicy=\"no-referrer\"><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.<br><br>Language: Python<br>Stars: 128225<br>Forks: 20057",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\nLanguage: Python\nStars: 128225\nForks: 20057",
+      "creator": "harry0703",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c720faf487378a32418f7fd60fbfe124d28b6092159c92e076096390d9245b1f/pablostanley/yoinks\" referrerpolicy=\"no-referrer\"><br>yoink any video from your terminal. no shady ads.<br><br>Language: TypeScript<br>Stars: 3773<br>Forks: 331",
+      "contentSnippet": "yoink any video from your terminal. no shady ads.\nLanguage: TypeScript\nStars: 3773\nForks: 331",
+      "creator": "pablostanley",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HunxByts/GhostTrack",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fa5dc19b59201e4201177c5af6932a28bda1f31610ad42356ad3706234032d30/HunxByts/GhostTrack\" referrerpolicy=\"no-referrer\"><br>Useful tool to track location or mobile number<br><br>Language: Python<br>Stars: 16810<br>Forks: 2299",
+      "contentSnippet": "Useful tool to track location or mobile number\nLanguage: Python\nStars: 16810\nForks: 2299",
+      "creator": "HunxByts",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-03T18:26:39.980Z"
+}
