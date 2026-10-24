@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "pubDate": "Sat, 24 Oct 2026 14:38:34 +0000",
+      "isoDate": "2026-10-24T14:38:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/\">https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50221676\">https://news.ycombinator.com/item?id=50221676</a></p>\n<p>Points: 232</p>\n<p># Comments: 169</p>\n",
+      "contentSnippet": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/\nComments URL: https://news.ycombinator.com/item?id=50221676\nPoints: 232\n# Comments: 169",
+      "creator": "rustybolt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
+      "isoDate": "2026-10-24T13:09:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/\">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220913\">https://news.ycombinator.com/item?id=50220913</a></p>\n<p>Points: 325</p>\n<p># Comments: 350</p>\n",
+      "contentSnippet": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/\nComments URL: https://news.ycombinator.com/item?id=50220913\nPoints: 325\n# Comments: 350",
+      "creator": "sblank",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
+      "isoDate": "2026-10-24T09:53:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 206</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html\nComments URL: https://news.ycombinator.com/item?id=50219666\nPoints: 206\n# Comments: 146",
+      "creator": "rramadass",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "pubDate": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "isoDate": "2026-10-24T05:49:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/log4j/status/2113014142600953868?s=46\">https://twitter.com/log4j/status/2113014142600953868?s=46</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218633\">https://news.ycombinator.com/item?id=50218633</a></p>\n<p>Points: 422</p>\n<p># Comments: 160</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 422\n# Comments: 160",
+      "creator": "testing22321",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "pubDate": "Sat, 24 Oct 2026 04:49:58 +0000",
+      "isoDate": "2026-10-24T04:49:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/obsproject/obs-studio/releases/tag/33.0.0\">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218430\">https://news.ycombinator.com/item?id=50218430</a></p>\n<p>Points: 360</p>\n<p># Comments: 121</p>\n",
+      "contentSnippet": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0\nComments URL: https://news.ycombinator.com/item?id=50218430\nPoints: 360\n# Comments: 121",
+      "creator": "pentagrama",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "pubDate": "Sat, 24 Oct 2026 03:43:54 +0000",
+      "isoDate": "2026-10-24T03:43:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 208</p>\n<p># Comments: 59</p>\n",
+      "contentSnippet": "Article URL: https://rtfeldman.com/fp-vs-c\nComments URL: https://news.ycombinator.com/item?id=50218195\nPoints: 208\n# Comments: 59",
+      "creator": "stmonty",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "pubDate": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "isoDate": "2026-10-24T01:16:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 315</p>\n<p># Comments: 47</p>\n",
+      "contentSnippet": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 315\n# Comments: 47",
+      "creator": "otoolep",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "pubDate": "Sat, 24 Oct 2026 01:15:14 +0000",
+      "isoDate": "2026-10-24T01:15:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117492375462459244\">https://grapheneos.social/@GrapheneOS/117492375462459244</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217495\">https://news.ycombinator.com/item?id=50217495</a></p>\n<p>Points: 498</p>\n<p># Comments: 171</p>\n",
+      "contentSnippet": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244\nComments URL: https://news.ycombinator.com/item?id=50217495\nPoints: 498\n# Comments: 171",
+      "creator": "privacyishuman",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "pubDate": "Fri, 23 Oct 2026 19:34:15 +0000",
+      "isoDate": "2026-10-23T19:34:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\">https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214218\">https://news.ycombinator.com/item?id=50214218</a></p>\n<p>Points: 365</p>\n<p># Comments: 187</p>\n",
+      "contentSnippet": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 365\n# Comments: 187",
+      "creator": "JustSkyfall",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
+      "pubDate": "Fri, 23 Oct 2026 19:09:54 +0000",
+      "isoDate": "2026-10-23T19:09:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://block.xyz/dessa\">https://block.xyz/dessa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50213925\">https://news.ycombinator.com/item?id=50213925</a></p>\n<p>Points: 453</p>\n<p># Comments: 176</p>\n",
+      "contentSnippet": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 453\n# Comments: 176",
+      "creator": "dsr12",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "pubDate": "Fri, 23 Oct 2026 16:59:08 +0000",
+      "isoDate": "2026-10-23T16:59:08.000Z",
+      "content": "\n<p><a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\" rel=\"nofollow\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a><p><a href=\"https://artificialanalysis.ai/models/kimi-k3-1-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/kimi-k3-1-pro</a><p><a href=\"https://www.modelcompare.ai/blog/china-open-source-ai\" rel=\"nofollow\">https://www.modelcompare.ai/blog/china-open-source-ai</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212065\">https://news.ycombinator.com/item?id=50212065</a></p>\n<p>Points: 1025</p>\n<p># Comments: 625</p>\n",
+      "contentSnippet": "https://www.kimi.com/code/docs/en/kimi-code/models.html\nhttps://artificialanalysis.ai/models/kimi-k3-1-pro\nhttps://www.modelcompare.ai/blog/china-open-source-ai\nComments URL: https://news.ycombinator.com/item?id=50212065\nPoints: 1025\n# Comments: 625",
+      "creator": "Jowsey",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "pubDate": "Fri, 23 Oct 2026 16:21:50 +0000",
+      "isoDate": "2026-10-23T16:21:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.calif.io/p/iphone\">https://blog.calif.io/p/iphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211474\">https://news.ycombinator.com/item?id=50211474</a></p>\n<p>Points: 1030</p>\n<p># Comments: 641</p>\n",
+      "contentSnippet": "Article URL: https://blog.calif.io/p/iphone\nComments URL: https://news.ycombinator.com/item?id=50211474\nPoints: 1030\n# Comments: 641",
+      "creator": "pavel_lishin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "pubDate": "Fri, 23 Oct 2026 14:52:08 +0000",
+      "isoDate": "2026-10-23T14:52:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\">https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50210067\">https://news.ycombinator.com/item?id=50210067</a></p>\n<p>Points: 207</p>\n<p># Comments: 160</p>\n",
+      "contentSnippet": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\nComments URL: https://news.ycombinator.com/item?id=50210067\nPoints: 207\n# Comments: 160",
+      "creator": "IcePenguin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "pubDate": "Fri, 23 Oct 2026 13:41:10 +0000",
+      "isoDate": "2026-10-23T13:41:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\">https://www.kadoa.com/energy-prices/insights/investor-owned-utilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208837\">https://news.ycombinator.com/item?id=50208837</a></p>\n<p>Points: 545</p>\n<p># Comments: 392</p>\n",
+      "contentSnippet": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 545\n# Comments: 392",
+      "creator": "hubraumhugo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "link": "https://keepandroidopen.org/?",
+      "pubDate": "Fri, 23 Oct 2026 13:19:42 +0000",
+      "isoDate": "2026-10-23T13:19:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://keepandroidopen.org/?\">https://keepandroidopen.org/?</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208558\">https://news.ycombinator.com/item?id=50208558</a></p>\n<p>Points: 518</p>\n<p># Comments: 362</p>\n",
+      "contentSnippet": "Article URL: https://keepandroidopen.org/?\nComments URL: https://news.ycombinator.com/item?id=50208558\nPoints: 518\n# Comments: 362",
+      "creator": "NackerHughes",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "pubDate": "Fri, 23 Oct 2026 12:28:47 +0000",
+      "isoDate": "2026-10-23T12:28:47.000Z",
+      "content": "\n<p><a href=\"https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/\" rel=\"nofollow\">https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207910\">https://news.ycombinator.com/item?id=50207910</a></p>\n<p>Points: 868</p>\n<p># Comments: 253</p>\n",
+      "contentSnippet": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...\nComments URL: https://news.ycombinator.com/item?id=50207910\nPoints: 868\n# Comments: 253",
+      "creator": "frizlab",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "pubDate": "Fri, 23 Oct 2026 11:39:54 +0000",
+      "isoDate": "2026-10-23T11:39:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207405\">https://news.ycombinator.com/item?id=50207405</a></p>\n<p>Points: 321</p>\n<p># Comments: 119</p>\n",
+      "contentSnippet": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\nComments URL: https://news.ycombinator.com/item?id=50207405\nPoints: 321\n# Comments: 119",
+      "creator": "armcat",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "pubDate": "Fri, 23 Oct 2026 10:41:32 +0000",
+      "isoDate": "2026-10-23T10:41:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://twitter.com/jaredkushner/status/2113376217415958767\">https://twitter.com/jaredkushner/status/2113376217415958767</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50206914\">https://news.ycombinator.com/item?id=50206914</a></p>\n<p>Points: 306</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767\nComments URL: https://news.ycombinator.com/item?id=50206914\nPoints: 306\n# Comments: 202",
+      "creator": "teekert",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "pubDate": "Fri, 23 Oct 2026 08:21:29 +0000",
+      "isoDate": "2026-10-23T08:21:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/\">https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50205934\">https://news.ycombinator.com/item?id=50205934</a></p>\n<p>Points: 439</p>\n<p># Comments: 450</p>\n",
+      "contentSnippet": "Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/\nComments URL: https://news.ycombinator.com/item?id=50205934\nPoints: 439\n# Comments: 450",
+      "creator": "robtherobber",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "pubDate": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "isoDate": "2026-10-23T00:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 375</p>\n<p># Comments: 261</p>\n",
+      "contentSnippet": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 375\n# Comments: 261",
+      "creator": "xiaoyu2006",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "pubDate": "Thu, 22 Oct 2026 23:45:56 +0000",
+      "isoDate": "2026-10-22T23:45:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codeandcake.dev/posts/2026-10-22-docker-is-weird\">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202681\">https://news.ycombinator.com/item?id=50202681</a></p>\n<p>Points: 854</p>\n<p># Comments: 366</p>\n",
+      "contentSnippet": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 854\n# Comments: 366",
+      "creator": "psxuaw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "pubDate": "Thu, 22 Oct 2026 23:01:18 +0000",
+      "isoDate": "2026-10-22T23:01:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://edjefferson.com/localwiki/\">https://edjefferson.com/localwiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202285\">https://news.ycombinator.com/item?id=50202285</a></p>\n<p>Points: 1487</p>\n<p># Comments: 238</p>\n",
+      "contentSnippet": "Article URL: https://edjefferson.com/localwiki/\nComments URL: https://news.ycombinator.com/item?id=50202285\nPoints: 1487\n# Comments: 238",
+      "creator": "sohkamyung",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "pubDate": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "isoDate": "2026-10-22T22:54:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.anthropic.com/research/formal-verification\">https://www.anthropic.com/research/formal-verification</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202217\">https://news.ycombinator.com/item?id=50202217</a></p>\n<p>Points: 455</p>\n<p># Comments: 298</p>\n",
+      "contentSnippet": "Article URL: https://www.anthropic.com/research/formal-verification\nComments URL: https://news.ycombinator.com/item?id=50202217\nPoints: 455\n# Comments: 298",
+      "creator": "johnbender",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "pubDate": "Thu, 22 Oct 2026 22:43:19 +0000",
+      "isoDate": "2026-10-22T22:43:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\">https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202114\">https://news.ycombinator.com/item?id=50202114</a></p>\n<p>Points: 477</p>\n<p># Comments: 258</p>\n",
+      "contentSnippet": "Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\nComments URL: https://news.ycombinator.com/item?id=50202114\nPoints: 477\n# Comments: 258",
+      "creator": "hn_acker",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "pubDate": "Thu, 22 Oct 2026 21:41:13 +0000",
+      "isoDate": "2026-10-22T21:41:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images\">https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201445\">https://news.ycombinator.com/item?id=50201445</a></p>\n<p>Points: 206</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images\nComments URL: https://news.ycombinator.com/item?id=50201445\nPoints: 206\n# Comments: 73",
+      "creator": "gmays",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "pubDate": "Thu, 22 Oct 2026 21:24:41 +0000",
+      "isoDate": "2026-10-22T21:24:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201259\">https://news.ycombinator.com/item?id=50201259</a></p>\n<p>Points: 547</p>\n<p># Comments: 227</p>\n",
+      "contentSnippet": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\nComments URL: https://news.ycombinator.com/item?id=50201259\nPoints: 547\n# Comments: 227",
+      "creator": "ck2",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "pubDate": "Thu, 22 Oct 2026 21:03:55 +0000",
+      "isoDate": "2026-10-22T21:03:55.000Z",
+      "content": "\n<p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?<p>Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?<p>Is selling tokens really the best strategy?<p>Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50200997\">https://news.ycombinator.com/item?id=50200997</a></p>\n<p>Points: 634</p>\n<p># Comments: 714</p>\n",
+      "contentSnippet": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\nCouldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\nIs selling tokens really the best strategy?\nEspecially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side\nComments URL: https://news.ycombinator.com/item?id=50200997\nPoints: 634\n# Comments: 714",
+      "creator": "ex-aws-dude",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "pubDate": "Thu, 22 Oct 2026 18:44:36 +0000",
+      "isoDate": "2026-10-22T18:44:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/maxilevi/project-hedra/tree/pre-ai\">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199389\">https://news.ycombinator.com/item?id=50199389</a></p>\n<p>Points: 234</p>\n<p># Comments: 48</p>\n",
+      "contentSnippet": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 234\n# Comments: 48",
+      "creator": "maxilevi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "pubDate": "Thu, 22 Oct 2026 17:44:06 +0000",
+      "isoDate": "2026-10-22T17:44:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/NVIDIA/OpenShell\">https://github.com/NVIDIA/OpenShell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50198675\">https://news.ycombinator.com/item?id=50198675</a></p>\n<p>Points: 498</p>\n<p># Comments: 217</p>\n",
+      "contentSnippet": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 498\n# Comments: 217",
+      "creator": "niemandhier",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "pubDate": "Thu, 22 Oct 2026 16:27:47 +0000",
+      "isoDate": "2026-10-22T16:27:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arc.net/\">https://arc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197601\">https://news.ycombinator.com/item?id=50197601</a></p>\n<p>Points: 281</p>\n<p># Comments: 252</p>\n",
+      "contentSnippet": "Article URL: https://arc.net/\nComments URL: https://news.ycombinator.com/item?id=50197601\nPoints: 281\n# Comments: 252",
+      "creator": "suhdonghwi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-10-24T17:43:26.731Z"
+}
