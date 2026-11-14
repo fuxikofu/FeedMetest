@@ -1,0 +1,119 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6faf30a3a728c127b163bc689af8cbf23bd6672f0a6be0ba7536e8c58bc63000/meta/astryx\" referrerpolicy=\"no-referrer\"><br>An open source design system that's fully customizable and agent ready<br><br>Language: TypeScript<br>Stars: 28006<br>Forks: 2176",
+      "contentSnippet": "An open source design system that's fully customizable and agent ready\nLanguage: TypeScript\nStars: 28006\nForks: 2176",
+      "creator": "meta",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/162998479/643206d7-076a-4b92-bb6c-89d9c4161d95\" referrerpolicy=\"no-referrer\"><br>Hunt down social media accounts by username across social networks<br><br>Language: Python<br>Stars: 111690<br>Forks: 12926",
+      "contentSnippet": "Hunt down social media accounts by username across social networks\nLanguage: Python\nStars: 111690\nForks: 12926",
+      "creator": "sherlock-project",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0a009836c8b2761ecfbb3ef16e48ade64d2717e4a3f13955384606a272d85e7c/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills<br><br>Language: Python<br>Stars: 194533<br>Forks: 22893",
+      "contentSnippet": "Public repository for Agent Skills\nLanguage: Python\nStars: 194533\nForks: 22893",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28d22312872eb0218b210dee78b7aff4a0e9185dc504acbf486c3af472c652dc/vercel-labs/agent-browser\" referrerpolicy=\"no-referrer\"><br>Browser automation CLI for AI agents<br><br>Language: Rust<br>Stars: 51125<br>Forks: 3568",
+      "contentSnippet": "Browser automation CLI for AI agents\nLanguage: Rust\nStars: 51125\nForks: 3568",
+      "creator": "vercel-labs",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google/elephant-goldfish-model",
+      "link": "https://github.com/google/elephant-goldfish-model",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1368596582/bafb1e15-6b0b-4c41-a95d-6183244a44ab\" referrerpolicy=\"no-referrer\"><br>Open-source plugin for designing and reviewing software with agents<br><br>Language: Python<br>Stars: 19068<br>Forks: 1417",
+      "contentSnippet": "Open-source plugin for designing and reviewing software with agents\nLanguage: Python\nStars: 19068\nForks: 1417",
+      "creator": "google",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0f9ae81df65c8ec5272702c451ceae9a8407f29dcaa819e3cb1f2468f32379f0/milind-soni/OpenMausBot\" referrerpolicy=\"no-referrer\"><br>Open-source Grok Bot alternative with a virtual machine that bots can use<br><br>Language: TypeScript<br>Stars: 22691<br>Forks: 3156",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nLanguage: TypeScript\nStars: 22691\nForks: 3156",
+      "creator": "milind-soni",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 72219<br>Forks: 57467",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 72219\nForks: 57467",
+      "creator": "ZhuLinsen",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d0453b69ef168676e8e97ef50499435cb1e1d89dbfe0a6713a4baae67be9becd/google-deepmind/mujoco\" referrerpolicy=\"no-referrer\"><br>Multi-Joint dynamics with Contact. A general purpose physics simulator.<br><br>Language: C++<br>Stars: 17962<br>Forks: 2200",
+      "contentSnippet": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\nLanguage: C++\nStars: 17962\nForks: 2200",
+      "creator": "google-deepmind",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0a7a000f22432260703654f1db3a6e826e3933cdca79318fa0b197d46323149e/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 10966<br>Forks: 865",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 10966\nForks: 865",
+      "creator": "backnotprop",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b104ff528c38359677050020892917642830dc06f54b8ac515cc3713f907dffa/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 117513<br>Forks: 12289",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 117513\nForks: 12289",
+      "creator": "addyosmani",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e2468cfd8c34aa44640e1db1b1102a44540fe24578c7251ab6acacfc7afb4797/anthropics/claude-quickstarts\" referrerpolicy=\"no-referrer\"><br>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API<br><br>Language: Python<br>Stars: 20959<br>Forks: 3496",
+      "contentSnippet": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\nLanguage: Python\nStars: 20959\nForks: 3496",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T19:36:47.352Z"
+}

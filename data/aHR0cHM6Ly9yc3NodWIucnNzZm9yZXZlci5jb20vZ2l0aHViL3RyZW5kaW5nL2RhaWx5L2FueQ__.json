@@ -1,0 +1,159 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/984167e2464f513d659344fde745d71d9b159193a57f18ae95035686325ca921/backnotprop/plannotator\" referrerpolicy=\"no-referrer\"><br>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. <br><br>Language: TypeScript<br>Stars: 10958<br>Forks: 864",
+      "contentSnippet": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. \nLanguage: TypeScript\nStars: 10958\nForks: 864",
+      "creator": "backnotprop",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bc1f7cba42e02066b46b419882cf7ed1a125d5f5d056ac70a076175fccc5b25a/GoogleChrome/modern-web-guidance-src\" referrerpolicy=\"no-referrer\"><br>Keep your coding agent up to date with the latest web best practices<br><br>Language: TypeScript<br>Stars: 5771<br>Forks: 348",
+      "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nLanguage: TypeScript\nStars: 5771\nForks: 348",
+      "creator": "GoogleChrome",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0daf3841f3e12a0e854bea9de261620752f8aa05c15073cdc2720847c8ae970a/tradermonty/claude-trading-skills\" referrerpolicy=\"no-referrer\"><br>Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.<br><br>Language: Python<br>Stars: 4668<br>Forks: 942",
+      "contentSnippet": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\nLanguage: Python\nStars: 4668\nForks: 942",
+      "creator": "tradermonty",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b05ba20025f39aeffa9fa231ad9c26e872565404979c05712f93841105e065ed/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 56194<br>Forks: 4710",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 56194\nForks: 4710",
+      "creator": "ChromeDevTools",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 51305<br>Forks: 3868",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 51305\nForks: 3868",
+      "creator": "alibaba",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "link": "https://github.com/QwenLM/qwen-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c9412c2a6a027629f4dd2489474250ce88f98758a6639d7a7a0272b35bd0d7cd/QwenLM/qwen-code\" referrerpolicy=\"no-referrer\"><br>An open-source AI coding agent that lives in your terminal.<br><br>Language: TypeScript<br>Stars: 30264<br>Forks: 3465",
+      "contentSnippet": "An open-source AI coding agent that lives in your terminal.\nLanguage: TypeScript\nStars: 30264\nForks: 3465",
+      "creator": "QwenLM",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326\" referrerpolicy=\"no-referrer\"><br>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.<br><br>Language: TypeScript<br>Stars: 24389<br>Forks: 2165",
+      "contentSnippet": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\nLanguage: TypeScript\nStars: 24389\nForks: 2165",
+      "creator": "dream-num",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ag-ui-protocol/ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/27a865e8ce2f179af5c0dd917e84f7642fce8e319b372f6b4c7d9c95cef2dcee/ag-ui-protocol/ag-ui\" referrerpolicy=\"no-referrer\"><br>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.<br><br>Language: TypeScript<br>Stars: 17287<br>Forks: 1629",
+      "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nLanguage: TypeScript\nStars: 17287\nForks: 1629",
+      "creator": "ag-ui-protocol",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ashhart/TensorFold",
+      "link": "https://github.com/ashhart/TensorFold",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/63c4625f49fbdff88d0b04133b33391f69cff56e2467f949965ddd57519daf4e/ashhart/TensorFold\" referrerpolicy=\"no-referrer\"><br>LLM Inference Engine for Metal, CUDA and Vulkan.<br><br>Language: Zig<br>Stars: 2133<br>Forks: 455",
+      "contentSnippet": "LLM Inference Engine for Metal, CUDA and Vulkan.\nLanguage: Zig\nStars: 2133\nForks: 455",
+      "creator": "ashhart",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/044d0bd6fe013c39c9b8486bc1a931a9b30baa49c67abe6d1d949b4b782638db/JuliusBrussee/caveman\" referrerpolicy=\"no-referrer\"><br>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.<br><br>Language: Go<br>Stars: 119964<br>Forks: 6999",
+      "contentSnippet": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\nLanguage: Go\nStars: 119964\nForks: 6999",
+      "creator": "JuliusBrussee",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "louislam/uptime-kuma",
+      "link": "https://github.com/louislam/uptime-kuma",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/382496361/f21b61f5-693a-4925-9f1f-fea237ade223\" referrerpolicy=\"no-referrer\"><br>A fancy self-hosted monitoring tool<br><br>Language: JavaScript<br>Stars: 94167<br>Forks: 8780",
+      "contentSnippet": "A fancy self-hosted monitoring tool\nLanguage: JavaScript\nStars: 94167\nForks: 8780",
+      "creator": "louislam",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/984167e2464f513d659344fde745d71d9b159193a57f18ae95035686325ca921/we-promise/sure\" referrerpolicy=\"no-referrer\"><br>The personal finance app for everyone (by everyone)<br><br>Language: Ruby<br>Stars: 15196<br>Forks: 1206",
+      "contentSnippet": "The personal finance app for everyone (by everyone)\nLanguage: Ruby\nStars: 15196\nForks: 1206",
+      "creator": "we-promise",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tencent/LoopForge",
+      "link": "https://github.com/Tencent/LoopForge",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/09086b4bb65281e96571be02b5d3d6bb8af92801318dc13deed219031324b0f7/Tencent/LoopForge\" referrerpolicy=\"no-referrer\"><br>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.<br><br>Language: Go<br>Stars: 826<br>Forks: 164",
+      "contentSnippet": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.\nLanguage: Go\nStars: 826\nForks: 164",
+      "creator": "Tencent",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Likely7/Veyra-NRVideo",
+      "link": "https://github.com/Likely7/Veyra-NRVideo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f5c082b3eebaacf9a871abc6de3728df28503b5169418a238e1d6b16ef757dd6/Likely7/Veyra-NRVideo\" referrerpolicy=\"no-referrer\"><br>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.<br><br>Language: C++<br>Stars: 2074<br>Forks: 132",
+      "contentSnippet": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.\nLanguage: C++\nStars: 2074\nForks: 132",
+      "creator": "Likely7",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "martin-olivier/airgorah",
+      "link": "https://github.com/martin-olivier/airgorah",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543516398/e65da23d-0cc8-424f-a670-84271590d291\" referrerpolicy=\"no-referrer\"><br>A WiFi security auditing software<br><br>Language: Rust<br>Stars: 5717<br>Forks: 982",
+      "contentSnippet": "A WiFi security auditing software\nLanguage: Rust\nStars: 5717\nForks: 982",
+      "creator": "martin-olivier",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-14T19:36:40.519Z"
+}
