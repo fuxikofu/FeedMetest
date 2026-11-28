@@ -1,0 +1,169 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "elementalsouls/Claude-BugHunter",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d\" referrerpolicy=\"no-referrer\"><br>A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.<br><br>Language: Python<br>Stars: 27092<br>Forks: 2791",
+      "contentSnippet": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\nLanguage: Python\nStars: 27092\nForks: 2791",
+      "creator": "elementalsouls",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5695f4c63c9f2fea167979aaf3f37b4361b7bf3d1ca0a04170ea5e52c027d37f/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 328964<br>Forks: 29262",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 328964\nForks: 29262",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d8424280dc7b893fa150e6501dcf81f558732c46c295a224b6095cc11a143521/HKUDS/CLI-Anything\" referrerpolicy=\"no-referrer\"><br>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/<br><br>Language: Python<br>Stars: 67416<br>Forks: 6211",
+      "contentSnippet": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\nLanguage: Python\nStars: 67416\nForks: 6211",
+      "creator": "HKUDS",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/790250426f944e0cecf1c16b0dc57b4b5b4e21d9c9736cba455e5921524837d5/jingyaogong/minimind\" referrerpolicy=\"no-referrer\"><br>🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.<br><br>Language: Python<br>Stars: 72518<br>Forks: 9504",
+      "contentSnippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\nLanguage: Python\nStars: 72518\nForks: 9504",
+      "creator": "jingyaogong",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://avatars.githubusercontent.com/u/126759922?s=400&amp;v=4\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 20154<br>Forks: 2289",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 20154\nForks: 2289",
+      "creator": "cursor",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "link": "https://github.com/firecrawl/firecrawl",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/787076358/f9616c09-3701-41ef-b5a6-fdf912ffb15b\" referrerpolicy=\"no-referrer\"><br>Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.<br><br>Language: TypeScript<br>Stars: 212169<br>Forks: 11198",
+      "contentSnippet": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\nLanguage: TypeScript\nStars: 212169\nForks: 11198",
+      "creator": "firecrawl",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "nginx/nginx",
+      "link": "https://github.com/nginx/nginx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/da79be98adea83d50b9d9d3d1d80fd480b9d6c665fba76001a4be08eb50575c3/nginx/nginx\" referrerpolicy=\"no-referrer\"><br>The official NGINX Open Source repository.<br><br>Language: C<br>Stars: 33740<br>Forks: 8507",
+      "contentSnippet": "The official NGINX Open Source repository.\nLanguage: C\nStars: 33740\nForks: 8507",
+      "creator": "nginx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "link": "https://github.com/openvinotoolkit/openvino",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/63311de90501bb752fa9f3d8758094e1b43494002944cb6ff231fd7706944baa/openvinotoolkit/openvino\" referrerpolicy=\"no-referrer\"><br>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference<br><br>Language: C++<br>Stars: 13014<br>Forks: 3844",
+      "contentSnippet": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\nLanguage: C++\nStars: 13014\nForks: 3844",
+      "creator": "openvinotoolkit",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c24f6e44e33927024079a02744925b680bb025ef4ee15e85022ce3e61d14f598/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 74855<br>Forks: 5084",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 74855\nForks: 5084",
+      "creator": "cathrynlavery",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a9ce1683ef7fe9927ceb428b587ef9a91a6f0a923eb4a09aa34dac47878cc7a2/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 76766<br>Forks: 6846",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 76766\nForks: 6846",
+      "creator": "mvanhorn",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5877f8dc68cc4c971bd271e07e8f77df83496377a661fd9292508ebd62cb6e41/google-labs-code/stitch-skills\" referrerpolicy=\"no-referrer\"><br>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.<br><br>Language: TypeScript<br>Stars: 13841<br>Forks: 1670",
+      "contentSnippet": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\nLanguage: TypeScript\nStars: 13841\nForks: 1670",
+      "creator": "google-labs-code",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "mjmirza/app-store-compliance",
+      "link": "https://github.com/mjmirza/app-store-compliance",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4edf6c5c41fe1be81613c6b881dbae9cc301f0b9da3f4bdbcb6062f4749071b9/mjmirza/app-store-compliance\" referrerpolicy=\"no-referrer\"><br>Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.<br><br>Language: Shell<br>Stars: 8459<br>Forks: 663",
+      "contentSnippet": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.\nLanguage: Shell\nStars: 8459\nForks: 663",
+      "creator": "mjmirza",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tracer-Cloud/opensre",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1133141258/1e1ca9ef-fb92-4604-8b72-9e58667afce2\" referrerpolicy=\"no-referrer\"><br>The open-source agent for CI/CD reliability.<br><br>Language: Python<br>Stars: 16347<br>Forks: 2191",
+      "contentSnippet": "The open-source agent for CI/CD reliability.\nLanguage: Python\nStars: 16347\nForks: 2191",
+      "creator": "Tracer-Cloud",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "toeverything/AFFiNE",
+      "link": "https://github.com/toeverything/AFFiNE",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/519859998/81557da6-35e0-421d-8ad7-ec0c7a4725d2\" referrerpolicy=\"no-referrer\"><br>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. <br><br>Language: TypeScript<br>Stars: 79820<br>Forks: 5891",
+      "contentSnippet": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. \nLanguage: TypeScript\nStars: 79820\nForks: 5891",
+      "creator": "toeverything",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "XiaoYouChR/Ghost-Downloader-3",
+      "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/679086250/850fce55-365a-4e38-9a48-b1060bfb17c7\" referrerpolicy=\"no-referrer\"><br>The only downloader you need. 下载器的集大成者。<br><br>Language: Python<br>Stars: 20407<br>Forks: 1321",
+      "contentSnippet": "The only downloader you need. 下载器的集大成者。\nLanguage: Python\nStars: 20407\nForks: 1321",
+      "creator": "XiaoYouChR",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "zhouxiaoka/autoclip",
+      "link": "https://github.com/zhouxiaoka/autoclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e3c2d9dc8eb40410e14059b5b0f7ad030c0b8f981abe6205f758d6530a6b50ba/zhouxiaoka/autoclip\" referrerpolicy=\"no-referrer\"><br>AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。<br><br>Language: Python<br>Stars: 18042<br>Forks: 2554",
+      "contentSnippet": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。\nLanguage: Python\nStars: 18042\nForks: 2554",
+      "creator": "zhouxiaoka",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-11-28T19:20:45.531Z"
+}
